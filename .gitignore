@@ -1,0 +1,25 @@
+# Vitis/Vivado HLS generated projects and reports
+matrix_mult_prj/
+*/matrix_mult_prj/
+**/matrix_mult_prj/
+.autopilot/
+_ide/
+**/_ide/
+vssver*.scc
+*.jou
+*.log
+*.str
+*.rpt
+
+# Local build outputs
+*.exe
+*.obj
+*.o
+
+# Temporary document/render artifacts
+*.docx
+lab3_media/
+render_lab3_before/
+render_lab3_after/
+~$*.docx
+~WRL*.tmp
